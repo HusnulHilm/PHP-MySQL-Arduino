@@ -1,0 +1,76 @@
+\documentclass[12pt, a4paper, ngerman]{article}
+
+%\usepackage{fancyhdr,graphicx, fleqn}
+\usepackage{graphicx}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{lmodern} 
+\usepackage{acronym} 
+\usepackage{tikz}
+
+
+
+\setlength{\parindent}{0pt} %Absätze nicht einrücken
+
+
+
+
+\begin{document}
+\tableofcontents
+\include{einleitung}
+
+\include{stand}
+
+\include{industrie}
+
+
+
+\include{Hard}
+
+\include{Ph}
+
+\include{ArduinoProgramm}
+
+
+
+
+
+
+
+
+
+
+%\appendix
+\addcontentsline{toc}{section}{Abbildungsverzeichnis}
+\listoffigures
+\addcontentsline{toc}{section}{Tabellenverzeichnis}
+\listoftables
+% Abk"urzungsverzeichnis
+\addcontentsline{toc}{section}{Abk"urzungsverzeichnis}
+\section*{Abk"urzungsverzeichnis}
+\begin{acronym}
+\acro{IOT}{Internet of Things}
+\acro{DMS}{Dehnmessstreifen}
+\acro{VDMA}{Verband Deutscher Maschinen-und Anlagenbau}
+\acro{ZVEI}{Zentralverband Elektrotechnik-und Elektronikindustrie}
+\acro{CPS}{Cyber-physische Systeme}
+\acro{RFID}{Radio-Frequecy identification}
+\acro{Wlan}{Wireless Local Area Network}
+\acro{IDE}{Integrated Devlopement environment}
+\acro{EEPROM}{electrically erasable programmable read-only memory}
+\acro{SRAM}{Static random-access memory }
+\acro{ASP}{Active server Pages}
+\acro{JSP}{Java server Pages}
+\acro{SQL}{Structured Query Language}
+\acro{RS-232}{Recommended Standard}
+\acro{ASCII}{American Standard Code for Information Interchange}
+\acro{bps}{bite pro Sekunde}
+\end{acronym}
+
+
+
+\include{Literat}
+
+\end{document}

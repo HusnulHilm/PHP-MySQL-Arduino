@@ -1,0 +1,14 @@
+\section{P,V Diagramm}
+
+Bei der Zeichung des Diagrammes von P,V müssen zuerst die Winkel und das Volume berechnet werden.
+Der winkel wird für jeder Impuls berechnet das heisset von0 bis 99.Wenn Alle Winkel berechnet sind, 
+ist es möglich das Volum zu berechnen. Um das Volume zu berechen , ist es notwendig, die Werten vom Diameter der Bohrung,Kurbelradius und Schubstangenlänge zu kennen.
+Die folgenden Formeln beschreiben wie die Wenkel und das Volume genau berechnet werden können.
+
+\begin{equation}\label{eq:paran}
+Winkel = \frac{m*2*\pi}{100}
+\end{equation}
+
+\begin{equation}\label{eq:paran}
+Volume = \pi*\frac{D}{4}^2*(R+L-R*\cos w)-L*\sqrt{1-\frac{R^2}{L^2}*\sin w^{2}}
+\end{equation}

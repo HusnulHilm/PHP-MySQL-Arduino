@@ -1,0 +1,66 @@
+\section{Tabellen}
+
+Und hier wollen wir ein paar Tabellen erzeugen:
+
+\subsection{Einfache Tabellen}
+
+\begin{tabular}{cc}
+ x & y \\
+ -4 & 16 \\
+ -3 & 9 \\
+ -2 & 4 \\
+ -1 & 1 \\
+  0 & 0 \\
+  1 & 1 \\
+  2 & 4 \\
+  3 & 9 \\
+  4 & 16 \\
+\end{tabular}
+
+
+  und hier ein bisschen anders
+
+\begin{tabular}{|c|r|}
+\hline
+ x & y \\
+\hline
+ -4 & 16 \\
+ -3 & 9 \\
+ -2 & 4 \\
+ -1 & 1 \\
+  0 & 0 \\
+  1 & 1 \\
+  2 & 4 \\
+  3 & 9 \\
+  4 & 16 \\
+\hline
+\end{tabular}
+
+\subsection{Gleitende Tabellen}
+
+Eine Tabelle kann auch als Gleitobjekt ausgef"uhrt werden:
+
+\begin{table}[htbp]
+\begin{center}
+\begin{tabular}{|cc|}
+\hline
+ x & y \\
+\hline
+ -4 & 16 \\
+ -3 & 9 \\
+ -2 & 4 \\
+ -1 & 1 \\
+  0 & 0 \\
+  1 & 1 \\
+  2 & 4 \\
+  3 & 9 \\
+  4 & 16 \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Wertetabelle f"ur die Normalparabel}\label{tab:einfach1}
+\end{table}
+
+
+
+Auf die Tabelle kann nun direkt im Text zugegriffen werden, indem man schreibt, dass Tabelle~\ref{tab:einfach1} die Anfangsdaten zum Zeichnen einer Normalparabel enth"alt. Dabei steht diese Tabelle auf der Seite~\pageref{tab:einfach1}.

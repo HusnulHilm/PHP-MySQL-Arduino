@@ -1,0 +1,214 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=latex 2018.3.17)  27 MAY 2019 12:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Berichte-main.tex
+(./Berichte-main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/german/ngerman.sty v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen103
+ngerman -- \language number for naustrian undefined, default 40 used.
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.sty
+
+LaTeX Warning: inputting `fleqn.clo' instead of obsolete `fleqn.sty'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2015/03/31 v1.1i Standard LaTeX option (flush left equations)
+\mathindent=\dimen106
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+))
+
+LaTeX Warning: Unused global option(s):
+    [17pt,a4].
+
+(./Berichte-main.aux)
+\openout1 = `Berichte-main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ (./anfoliste.tex
+Missing character: There is no ï in font cmr10!
+Missing character: There is no » in font cmr10!
+Missing character: There is no ¿ in font cmr10!
+
+Overfull \hbox (49.24641pt too wide) in paragraph at lines 1--1
+[]\OT1/cmr/bx/n/14.4 Anforderungsliste zum Kompressoren-Versuchsstand 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/10 Version: 1
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 30--31
+[]\OT1/cmr/m/n/10 Diagramme m[]ussen druck-bar
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 34--35
+[]\OT1/cmr/m/n/10 Bestimmung der Wel-len-ar-beit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+\OT1/cmr/m/n/10 durch In-te-gra-ti-on im $\OML/cmm/m/it/10 M[]'$\OT1/cmr/m/n/10
+ -
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/10 Programmierung in PHP mit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+\OT1/cmr/m/n/10 gra-phi-scher Dar-stel-lung auf
+ []
+
+
+Underfull \hbox (badness 3158) in paragraph at lines 46--47
+[]\OT1/cmr/m/n/10 Verwendung von OpenSource-
+ []
+
+
+Overfull \hbox (63.87239pt too wide) in paragraph at lines 6--59
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+[]\OT1/cmr/m/n/10 Version: 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[]\OT1/cmr/m/n/10 Ber[]uhr-schutz vor elek-trisch
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 71--72
+[]\OT1/cmr/m/n/10 Ber[]uhr-schutz vor be-we-gen-den
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 81--82
+[]\OT1/cmr/m/n/10 Verwendung be-ste-hen-der Pro-
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 81--82
+\OT1/cmr/m/n/10 duk-te: Norm-tei-le, []Uber-nah-me-
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 97--97
+[]\OT1/cmr/m/n/10 Keine be-son-de-ren An-for-de-run-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+[]\OT1/cmr/m/n/10 Anpassbarkeit der Soft-wa-re
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+\OT1/cmr/m/n/10 durch Do-ku-men-ta-ti-on und
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/10 Keine be-son-de-ren An-for-de-run-
+ []
+
+
+Overfull \hbox (54.65016pt too wide) in paragraph at lines 62--120
+ [][] 
+ []
+
+[1
+
+]) [2] (./Berichte-main.aux) ) 
+Here is how much of TeX's memory you used:
+ 851 strings out of 493030
+ 10107 string characters out of 6136260
+ 93178 words of memory out of 5000000
+ 4436 multiletter control sequences out of 15000+600000
+ 4553 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,9n,43p,190b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Berichte-main.dvi (2 pages, 12864 bytes).
